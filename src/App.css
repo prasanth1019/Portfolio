@@ -594,3 +594,18 @@ ul li {
     width: 400px;
   }
 }
+
+/* show error */
+.showError {
+  display: block;
+}
+
+.hideError {
+  display: none;
+}
+
+.errorMsg {
+  color: #ff0000;
+  font-size: 16px;
+  text-align: left;
+}
